@@ -1,4 +1,4 @@
-# the-open-enterprise-table-football
+# The Open Enterprise Table Football
 
 ## 17 July 2018
 
